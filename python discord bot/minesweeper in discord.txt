@@ -1,0 +1,30 @@
+CkfAxInrWG6mq8J_EwvI16kwlc27R2it
+bot token: NTQxMTI1NTk3MjkyOTIwODMy.Dza62g.57Fa3vKZ02U-BURXTabaO35gs0o
+"C:\Users\Owner\AppData\Local\Programs\Python\Python37-32\python.exe"
+"C:\Users\Owner\Downloads\python discord bot\botscript.py"
+For those who have many Syntax errors that state "Invalid Syntax", what you do is click on the last highlighted link file before the error message in the run box and modify it. Wherever you see asyncio.async , change it to async and add ' before and after like this: 'async' . I believe it should turn the text another color. If it still says invalid syntax after running it, repeat the same step above.
+
+||::||
+||:zero:||
+||:one:||
+||:two:||
+||:three:||
+||:four:||
+||:five:||
+||:six:||
+||:eight:||
+||:bomb:||
+
+B2111221
+13B21BB2
+13B335B2
+1B22BB31
+11113B20
+00001110
+
+||:bomb:||||:two:||||:one:||||:one:||||:one:||||:two:||||:two:||||:one:||
+||:one:||||:three:||||:bomb:||||:two:||||:one:||||:bomb:||||:bomb:||||:two:||
+||:one:||||:three:||||:bomb:||||:three:||||:three:||||:five:||||:bomb:||||:two:||
+||:one:||||:bomb:||||:two:||||:two:||||:bomb:||||:bomb:||||:three:||||:one:||
+||:one:||||:one:||||:one:||||:one:||||:three:||||:bomb:||||:two:||||:zero:||
+||:zero:||||:zero:||||:zero:||||:zero:||||:one:||||:one:||||:one:||||:zero:||
